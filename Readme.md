@@ -7,7 +7,7 @@
 <p>All required validation of Email id are done using JavaScrip</p>
 
 <h3>Password Authentication:<h3>
-<p>In this project, password entered by user is also validiated </p>
+<h2>In this project, password entered by user is also validiated </h2>
 <p>password contains combination of characters. There are four types of Validations Implimated for Password</p>
 <ul>
 <li>Password Should Contains LowerCase Character</li>
