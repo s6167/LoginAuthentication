@@ -16,7 +16,7 @@
 <li>Password should have min length of 8 characters</li>
 </ul>
 
-<h2>References<h2>
+<h2>References</h2>
 <p>Some online resources are refered to built this project </p>
 
 
