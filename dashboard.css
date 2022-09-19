@@ -1,0 +1,18 @@
+.container{
+    width: 60%;
+    margin: auto;
+    background-color: rgb(217, 222, 222);
+    text-align: center;
+    /* height: 400px; */
+    padding: 100px 50px;
+}
+
+a{
+    border: 1px solid rgba(140, 165, 235, 0.883);
+    border-radius: 10px;
+    padding: 10px;
+    text-decoration: none;
+    background-color: rgba(54, 95, 208, 0.883);
+    color: white;
+    font-weight: bolder;
+}
