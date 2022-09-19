@@ -1,0 +1,8 @@
+This project is uploaded on gitHub and hosted on Netlify.
+
+links of both as follows
+
+1. git Hub link : https://github.com/s6167/LoginAuthentication.git
+
+
+2. Hosted Link: https://resilient-cendol-e824ab.netlify.app/ 
